@@ -9,8 +9,9 @@ twitter: "https://twitter.com/"
 github: "https://github.com/"
 
 # Site config
-baseurl: "/pineapple"
+#baseurl: "/pineapple"
 #baseurl: "lifofernandez.github.io"
+baseurl: ""
 highlighter: rouge
 sass:
   sass_dir: assets/scss
