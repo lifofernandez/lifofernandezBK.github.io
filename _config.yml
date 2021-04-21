@@ -1,5 +1,5 @@
 # User config
-author: "Pineapple"
+author: "Lisandro Fernández"
 tagline: "Pineapple Certfied Jekyll Theme"
 description: "In 1493, explorer Christopher Columbus found pineapples on Guadeloupe Island in the Caribbean. Pineapple on pizza soon followed..."
 keywords: "Pineapple, Pineapple Pizza, Pineapple House"
@@ -9,8 +9,10 @@ twitter: "https://twitter.com/"
 github: "https://github.com/"
 
 # Site config
-baseurl: "/pineapple"
+#baseurl: "/pineapple"
+baseurl: "lifofernandez.github.io"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
   style: compressed
+
